@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:58 test_OrangeHRM_Login_003 is started
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:60 Entering username
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:62 Entering password
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:64 Clicking login button
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:66 Verifying login
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:68 test_OrangeHRM_Login_003 is passed
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:69 Taking screenshot
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:71 Clicking menu button
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:73 Clicking logout button
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:81 test_OrangeHRM_Login_003 is completed

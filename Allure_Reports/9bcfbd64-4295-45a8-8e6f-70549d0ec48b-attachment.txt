@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_Excel_003.py:26 test_OrangeHRM_Login_005 is started
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_Excel_003.py:27 Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_Excel_003.py:29 Reading data from excel file

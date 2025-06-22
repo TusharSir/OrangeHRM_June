@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:19 test_OrangeHRM_Login_004 is started
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:23 Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:25 Entering username
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:27 Entering password
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:29 Clicking login button
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:31 Verifying login
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:42 Login failed
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:43 Taking screenshot
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:48 test_OrangeHRM_Login_004 is passed
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_params_002.py:53 test_OrangeHRM_Login_003 is completed
